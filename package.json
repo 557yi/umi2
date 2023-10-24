@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "author": "thekingof557 <thekingwwj@gmail.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@ant-design/pro-layout": "^7.17.10",
+    "antd": "^5.10.2",
+    "axios": "^1.5.1",
+    "moment": "^2.29.4",
+    "umi": "^4.0.87"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.31",
+    "@types/react-dom": "^18.2.14",
+    "typescript": "^5.2.2"
+  }
+}
